@@ -1,0 +1,35 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    scroll-behavior: smooth;
+}
+body{
+    background-image: url(bg.jpg);
+    background-size: cover;
+    height: 100vh;
+  width: 100%; 
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.font-title{
+    font-family: "Dancing Script", serif;
+  font-weight: 700;
+  font-style: italic;
+  font-size: 2rem;
+  margin-left: 10px;
+  margin-right: 20px;
+}
+h1
+{
+    padding: 2px;
+    align-items: center;
+    background: #ffffff4a;
+    color: #000;
+    margin-bottom: 0 !important;
+    text-align: center;
+}
